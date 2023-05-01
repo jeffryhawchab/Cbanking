@@ -17,8 +17,6 @@
 </center>
 
 
-This project was built using these technologies.
 
-- C
 
 
